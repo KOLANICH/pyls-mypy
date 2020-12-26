@@ -1,0 +1,9 @@
+https://github.com/python/mypy_extensions
+https://github.com/python/typed_ast
+https://github.com/python/mypy
+https://github.com/ultrajson/ultrajson
+https://github.com/davidhalter/parso
+https://github.com/davidhalter/jedi
+https://github.com/pytest-dev/pluggy
+https://github.com/palantir/python-jsonrpc-server
+https://github.com/palantir/python-language-server
